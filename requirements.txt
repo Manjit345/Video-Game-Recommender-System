@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+pickle
+requests
+io
+json
+re
+string
+scikit-learn
